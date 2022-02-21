@@ -33,7 +33,7 @@ Tugas ini berisi tentang :
 ## Tugas 6
 Tugas ini berisi push tugas ke repository ini dan membuat README.md nya.
 
-## Tugas 7 (JMeter)
+## Tugas 7 (Load Test/Performance Test dengan JMeter)
 Tugas ini berisi tentang :
 - Buat Jmeter untuk Kolak Project, login (kredensial masing2), melakukan kolak up + cek status.
 - File pada tugas ini adalah **tugas7.jmx**
