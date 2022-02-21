@@ -1,0 +1,1 @@
+{"uuid":"4bfb7f05-bee4-4dac-ba6a-2d7fbe9909a5","name":"qaautomation.tugas4.BaseTest.quitChromeDriver","description":"","start":1644459499777,"stop":1644459499899,"children":["eafd4bea-9119-44da-b7ee-66b751d47479"],"afters":[{"name":"quitChromeDriver","status":"passed","stage":"finished","description":"","start":1644459499777,"stop":1644459499899}]}

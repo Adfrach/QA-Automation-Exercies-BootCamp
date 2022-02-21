@@ -1,0 +1,1 @@
+{"uuid":"e242fe3a-0a36-4ab0-ad18-d0b9705b80ac","name":"qaautomation.tugas5.BaseTest.register","description":"","start":1644820225360,"stop":1644820229908,"children":["04a0d44f-61c7-4ecb-a9d2-506d53f983db"],"befores":[{"name":"register","status":"passed","stage":"finished","description":"","start":1644820225365,"stop":1644820229906}]}
